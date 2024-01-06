@@ -1,1 +1,1 @@
-# jogo-de-memoriza-o
+# jogo-da-memoria
